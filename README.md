@@ -1,5 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Screenshots
+<img src="https://github.com/user-attachments/assets/c2ee1790-1eea-4c63-aead-0ba40bf8abfe" width="402" height="872">
+<img src="https://github.com/user-attachments/assets/dbd8b118-dbd6-4b8c-8324-6afe84369221" width="402" height="872">
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
